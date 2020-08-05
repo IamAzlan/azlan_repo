@@ -8,8 +8,4 @@ str4 <- "biostack: Drug Discovery and Genomics"
 print(str4)
 str5 <- "Username: @Azlan"
 print(str5)
-paste(str1,
-      str2,
-      str3,
-      str4,
-      str5)
+paste(str1,str2,str3,str4,str5)
